@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
-FILE_NAME ('NTC_inrush_limiter_22x6_7.8.step', '2018-11-03T15:16:22+00:00', 'Stefan Hamminga', '', '', '', '');
+FILE_NAME ('NTC_inrush_limiter_22x6_7.8.step', '2020-10-19T11:51:58+00:00', 'Stefan Hamminga', '', '', '', '');
 FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
 ENDSEC;
 

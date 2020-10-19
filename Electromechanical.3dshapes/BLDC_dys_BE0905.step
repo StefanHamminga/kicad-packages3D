@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
-FILE_NAME ('BLDC_dys_BE0905.step', '2018-11-03T15:16:22+00:00', 'Stefan Hamminga', '', '', '', '');
+FILE_NAME ('BLDC_dys_BE0905.step', '2020-10-19T11:51:59+00:00', 'Stefan Hamminga', '', '', '', '');
 FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
 ENDSEC;
 
