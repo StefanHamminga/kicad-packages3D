@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
-FILE_NAME ('Camera_Module_OV5695_TN5695A_raised_1mm.step', '2020-10-19T11:51:58+00:00', 'Stefan Hamminga', '', '', '', '');
+FILE_NAME ('Camera_Module_OV5695_TN5695A_raised_1mm.step', '2020-12-07T12:10:42+00:00', 'Stefan Hamminga', '', '', '', '');
 FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
 ENDSEC;
 

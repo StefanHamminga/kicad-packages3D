@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
-FILE_NAME ('UDFN-16_3.3x1.35mm_P0.4mm.step', '2020-10-19T11:51:58+00:00', 'Stefan Hamminga', '', '', '', '');
+FILE_NAME ('UDFN-16_3.3x1.35mm_P0.4mm.step', '2020-12-07T12:10:43+00:00', 'Stefan Hamminga', '', '', '', '');
 FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
 ENDSEC;
 

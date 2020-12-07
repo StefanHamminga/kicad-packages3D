@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
-FILE_NAME ('CAP_3216.step', '2020-10-19T11:51:58+00:00', 'Stefan Hamminga', '', '', '', '');
+FILE_NAME ('CAP_3216.step', '2020-12-07T12:10:42+00:00', 'Stefan Hamminga', '', '', '', '');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN_CC2 { 1 2 10303 214 -1 1 5 4 }'));
 ENDSEC;
 DATA;

@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
-FILE_NAME ('DSBGA-4_0.875x0.875mm_P0.35.step', '2020-10-19T11:51:58+00:00', 'Stefan Hamminga', '', '', '', '');
+FILE_NAME ('DSBGA-4_0.875x0.875mm_P0.35.step', '2020-12-07T12:10:42+00:00', 'Stefan Hamminga', '', '', '', '');
 FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
 ENDSEC;
 
