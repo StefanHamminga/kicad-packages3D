@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
-FILE_NAME ('Resistor_SMD_2012.step', '2020-12-07T12:10:43+00:00', 'Stefan Hamminga', '', '', '', '');
+FILE_NAME ('Resistor_SMD_2012.step', '2021-01-14T14:17:41+00:00', 'Stefan Hamminga', '', '', '', '');
 FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
 ENDSEC;
 
